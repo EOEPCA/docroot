@@ -8,7 +8,7 @@ nav:
   - Tutorials:
     - tutorials/index.md
   - How-Tos:
-    - howtos/my-howto.md
+    - howtos/deployment-guide.md
   - Technical:
     - technical/index.md
 
