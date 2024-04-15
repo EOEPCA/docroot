@@ -10,7 +10,7 @@ nav:
   - How-Tos:
     - howtos/deployment-guide.md
   - Technical:
-    - technical/index.md
+    - technical/system-architecture.md
 
 theme:
   # name: mkdocs
