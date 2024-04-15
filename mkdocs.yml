@@ -9,6 +9,8 @@ nav:
     - tutorials/index.md
   - How-Tos:
     - howtos/deployment-guide.md
+    - howtos/processing-inputs-from-workspace.md
+    - howtos/share-workspace-data.md
   - Technical:
     - technical/system-architecture.md
 
