@@ -15,6 +15,7 @@ nav:
       - howtos/share-workspace-data.md
     - Technical:
       - technical/system-architecture.md
+      - technical/BB-example.md
 
 theme:
   # name: mkdocs
