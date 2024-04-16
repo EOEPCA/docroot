@@ -1,4 +1,4 @@
-# EOEPCA Documentation
+# Introduction
 
 The EOEPCA documentation is organised as follows...
 

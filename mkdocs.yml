@@ -1,26 +1,54 @@
 site_name: EO Exploitation Platform Common Architecture
-# site_url: https://deployment-guide.docs.eoepca.org
-# repo_url: https://github.com/EOEPCA/deployment-guide
-# edit_uri: ""
+site_url: https://eoepca.readthedocs.io/en/latest/
+repo_url: https://github.com/EOEPCA/docroot/
+edit_uri: "edit/main/docs/"
 
 nav:
-  - index.md
-  - Tutorials:
-    - tutorials/index.md
-  - How-Tos:
-    - howtos/deployment-guide.md
-    - howtos/processing-inputs-from-workspace.md
-    - howtos/share-workspace-data.md
-  - Technical:
-    - technical/system-architecture.md
+  - EOEPCA Documentation:
+    - index.md
+    - Tutorials:
+      - tutorials/index.md
+    - How-Tos:
+      - howtos/deploy-eoepca-to-my-platform.md
+      - howtos/processing-inputs-from-workspace.md
+      - howtos/share-workspace-data.md
+    - Technical:
+      - technical/system-architecture.md
 
 theme:
   # name: mkdocs
   # name: readthedocs
   name: material # https://squidfunk.github.io/mkdocs-material/creating-your-site/
+  navigation_depth: 4
+
+  # For `material` theme...
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    # - navigation.expand
+    # - toc.integrate
+    - navigation.top
+    - content.code.copy
+    - content.action.edit
+
+extra_css:
+  - css/eoepca.css
 
 plugins:
   - autorefs
+  # - pub-debugger:
+  #     console_log:
+  #       enabled: true
+  #       log_level: INFO
+  #     file_log:
+  #       enabled: false
+  #     zip_log:
+  #       enabled: false
 
 markdown_extensions:
   - tables
