@@ -18,6 +18,7 @@ nav:
       - Building Blocks:
         - MLOps: technical/mlops-bb.md
         - Resource Registration: technical/resource-registration-bb.md
+        - Federated Orchestrator: technical/federated-orchestrator-bb.md
         - Example (template): technical/BB-example.md
 
 theme:
