@@ -1,5 +1,5 @@
 site_name: EO Exploitation Platform Common Architecture
-site_url: https://eoepca.readthedocs.io/en/latest/
+site_url: https://eoepca.readthedocs.io/
 repo_url: https://github.com/EOEPCA/docroot/
 edit_uri: "edit/main/docs/"
 
@@ -15,7 +15,10 @@ nav:
       - howtos/share-workspace-data.md
     - Technical:
       - technical/system-architecture.md
-      - technical/BB-example.md
+      - Building Blocks:
+        - MLOps: technical/mlops-bb.md
+        - Resource Registration: technical/resource-registration-bb.md
+        - Example (template): technical/BB-example.md
 
 theme:
   # name: mkdocs
@@ -28,6 +31,7 @@ theme:
   favicon: img/favicon.ico
   features:
     # Navigation
+    - navigation.expand
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
