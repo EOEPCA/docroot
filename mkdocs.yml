@@ -15,9 +15,11 @@ nav:
       - howtos/share-workspace-data.md
     - Technical:
       - technical/system-architecture.md
+      - technical/deployment-guide.md
       - Building Blocks:
-        - MLOps: technical/mlops-bb.md
+        - Resource Discovery: technical/resource-discovery-bb.md
         - Resource Registration: technical/resource-registration-bb.md
+        - MLOps: technical/mlops-bb.md
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
         - Example (template): technical/BB-example.md
 
