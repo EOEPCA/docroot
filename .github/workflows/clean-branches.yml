@@ -20,4 +20,4 @@ jobs:
 
           # Delete the branch
           echo "Deleting branch ${BRANCH_NAME}"
-          git push origin --delete "$BRANCH_NAME"
+          #git push origin --delete "$BRANCH_NAME"
