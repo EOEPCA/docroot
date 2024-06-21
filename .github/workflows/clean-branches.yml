@@ -1,0 +1,23 @@
+name: Clean Branches
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  delete-branch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Delete branch
+        run: |
+          # Extract branch name from the pull request
+          BRANCH_NAME=$(echo "${{ github.ref }}" | sed 's/refs\/heads\///')
+
+          # Delete the branch
+          echo "Deleting branch ${BRANCH_NAME}"
+          git push origin --delete "$BRANCH_NAME"
