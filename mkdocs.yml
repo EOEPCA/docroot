@@ -22,8 +22,8 @@ nav:
         - MLOps: technical/mlops-bb.md
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
         - Example (template): technical/BB-example.md
-  - System Architecture: projects/architecture/
-  - Deployment Guide: projects/deploy/
+  - System Architecture: /projects/architecture/
+  - Deployment Guide: /projects/deploy/
 
 theme:
   # name: mkdocs
