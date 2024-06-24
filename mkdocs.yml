@@ -19,6 +19,7 @@ nav:
       - Building Blocks:
         - Resource Discovery: technical/resource-discovery-bb.md
         - Resource Registration: technical/resource-registration-bb.md
+        - Data Access: technical/data-access-bb.md
         - MLOps: technical/mlops-bb.md
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
         - Example (template): technical/BB-example.md
