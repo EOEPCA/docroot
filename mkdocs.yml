@@ -22,6 +22,7 @@ nav:
         - Data Access: technical/data-access-bb.md
         - MLOps: technical/mlops-bb.md
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
+        - Identity & Access Management: technical/iam-bb.md
         - Example (template): technical/BB-example.md
   - System Architecture: /projects/architecture/
   - Deployment Guide: /projects/deploy/
