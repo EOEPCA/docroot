@@ -7,8 +7,10 @@ nav:
   - EOEPCA Documentation:
     - index.md
     - Tutorials:
-      - tutorials/mastering-eo-application-packaging-with-CWL.md
-      - tutorials/CWL-guide-for-eo.md
+      - EO Application Packages:
+        - Guides for Earth Observation Application Packages: https://github.com/eoap
+        - tutorials/mastering-eo-application-packaging-with-CWL.md
+        - tutorials/CWL-guide-for-eo.md
     - How-Tos:
       - howtos/deploy-eoepca-to-my-platform.md
       - howtos/processing-inputs-from-workspace.md
@@ -61,6 +63,7 @@ extra_css:
 plugins:
   - autorefs
   - search
+  - open-in-new-tab
   # - pub-debugger:
   #     console_log:
   #       enabled: true
