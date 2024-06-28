@@ -8,9 +8,9 @@ nav:
     - index.md
     - Tutorials:
       - EO Application Packages:
-        - Guides for Earth Observation Application Packages: https://github.com/eoap
-        - tutorials/mastering-eo-application-packaging-with-CWL.md
-        - tutorials/CWL-guide-for-eo.md
+        - Guides for EO Application Packages: https://github.com/eoap
+        - Mastering EO Application Packaging with CWL: https://terradue.github.io/app-package-training-bids23/
+        - CWL guide for Earth Observation: https://cwl-for-eo.github.io/guide/
     - How-Tos:
       - howtos/deploy-eoepca-to-my-platform.md
       - howtos/processing-inputs-from-workspace.md
