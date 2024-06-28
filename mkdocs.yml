@@ -16,7 +16,7 @@ nav:
       - howtos/processing-inputs-from-workspace.md
       - howtos/share-workspace-data.md
     - Technical:
-      - technical/system-architecture.md
+      - System Architecture: https://eoepca.readthedocs.io/projects/architecture
       - technical/deployment-guide.md
       - Building Blocks:
         - Resource Discovery: technical/resource-discovery-bb.md
