@@ -12,19 +12,19 @@ nav:
         - Mastering EO Application Packaging with CWL: https://terradue.github.io/app-package-training-bids23/
         - CWL guide for Earth Observation: https://cwl-for-eo.github.io/guide/
     - How-Tos:
-      - Deploy EOEPCA to My Platform: https://eoepca.readthedocs.io/projects/deploy
+      - Deploy EOEPCA to My Platform: /projects/deploy
       - howtos/processing-inputs-from-workspace.md
       - howtos/share-workspace-data.md
     - Technical:
-      - System Architecture: https://eoepca.readthedocs.io/projects/architecture
-      - Deployment Guide: https://eoepca.readthedocs.io/projects/deploy
+      - System Architecture: /projects/architecture
+      - Deployment Guide: /projects/deploy
       - Building Blocks:
-        - Resource Discovery: https://eoepca.readthedocs.io/projects/resource-discovery
-        - Resource Registration: https://eoepca.readthedocs.io/projects/resource-registration
-        - Data Access: https://eoepca.readthedocs.io/projects/data-access
-        - MLOps: https://eoepca.readthedocs.io/projects/mlops
+        - Resource Discovery: /projects/resource-discovery
+        - Resource Registration: /projects/resource-registration
+        - Data Access: /projects/data-access
+        - MLOps: /projects/mlops
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
-        - Identity & Access Management: https://eoepca.readthedocs.io/projects/iam
+        - Identity & Access Management: /projects/iam
   - System Architecture: /projects/architecture/
   - Deployment Guide: /projects/deploy/
 
