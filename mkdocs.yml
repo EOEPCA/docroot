@@ -22,9 +22,15 @@ nav:
         - Resource Discovery: /projects/resource-discovery
         - Resource Registration: /projects/resource-registration
         - Data Access: /projects/data-access
-        - MLOps: /projects/mlops
+        - Datacube Access: /projects/datacube-access
+        - Workspace: /projects/workspace
+        - Processing: /projects/processing
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
+        - Application Hub: /projects/application-hub
+        - Application Quality: /projects/application-quality
+        - MLOps: /projects/mlops
         - Identity & Access Management: /projects/iam
+        - Resource Health: /projects/resource-health
   - System Architecture: /projects/architecture/
   - Deployment Guide: /projects/deploy/
 
