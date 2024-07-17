@@ -31,8 +31,6 @@ nav:
       - Deploy EOEPCA to My Platform: /projects/deploy
       - howtos/processing-inputs-from-workspace.md
       - howtos/share-workspace-data.md
-  - System Architecture: /projects/architecture/
-  - Deployment Guide: /projects/deploy/
 
 theme:
   # name: mkdocs
