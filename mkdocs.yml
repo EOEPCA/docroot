@@ -8,7 +8,7 @@ nav:
     - index.md
     - Technical:
       - System Architecture: /projects/architecture
-      - Deployment Guide: /projects/deploy
+      - Deployment Guide: /projects/deploy/en/latest
       - Building Blocks (Platform):
         - Resource Discovery: /projects/resource-discovery
         - Resource Registration: /projects/resource-registration
@@ -31,7 +31,7 @@ nav:
         - Mastering EO Application Packaging with CWL: https://terradue.github.io/app-package-training-bids23/
         - CWL guide for Earth Observation: https://cwl-for-eo.github.io/guide/
     - How-Tos:
-      - Deploy EOEPCA to My Platform: /projects/deploy
+      - Deploy EOEPCA to My Platform: /projects/deploy/en/latest
       - howtos/processing-inputs-from-workspace.md
       - howtos/share-workspace-data.md
 
