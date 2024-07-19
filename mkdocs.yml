@@ -25,6 +25,8 @@ nav:
       - Building Blocks (Applications):
         - Application Hub: /projects/application-hub
         - Application Quality: /projects/application-quality
+      - Tools:
+        - Application Package Development Tools: technical/application-package-development-tools.md
     - Tutorials:
       - EO Application Packages:
         - Guides for EO Application Packages: https://github.com/eoap
