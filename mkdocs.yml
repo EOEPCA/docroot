@@ -17,7 +17,7 @@ nav:
         - Workspace: /projects/workspace
         - Processing: /projects/processing
         - MLOps: /projects/mlops
-        - Resource Health: /projects/resource-health
+        - Resource Health: technical/resource-health-bb.md
         - Notification & Automation: technical/notification-automation-bb.md
       - Building Blocks (Federation):
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
