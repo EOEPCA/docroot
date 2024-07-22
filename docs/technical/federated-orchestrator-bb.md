@@ -1,4 +1,4 @@
-# Federated Orchestrator
+# Federated Orchestrator Building Block
 
 A processing 'federation' is a combination of 'processing' building blocks, that are presented through a single interface.
 Depending on the federation, it can take care of aspects such as a single login, shared accounting or more advanced capabilities such as distribution of processing workload across the federation.
