@@ -14,6 +14,7 @@ nav:
         - Resource Registration: /projects/resource-registration
         - Data Access: /projects/data-access
         - Datacube Access: /projects/datacube-access
+        - Data Gateway: technical/data-gateway-bb.md
         - Workspace: /projects/workspace
         - Processing: /projects/processing
         - MLOps: /projects/mlops
