@@ -17,6 +17,6 @@ The source for the validator is maintained in a [GitHub repository](https://gith
 For usage instractions see the [README on GitHub](https://github.com/EOEPCA/app-package-validation/blob/main/README.md)...
 
 * [**Python Library**](https://github.com/EOEPCA/app-package-validation?tab=readme-ov-file#using-the-library)<br>
-  https://github.com/EOEPCA/app-package-validation?tab=readme-ov-file#using-the-library
+  <https://github.com/EOEPCA/app-package-validation?tab=readme-ov-file#using-the-library>
 * [**Command-line**](https://github.com/EOEPCA/app-package-validation?tab=readme-ov-file#command-line-tool)<br>
-  https://github.com/EOEPCA/app-package-validation?tab=readme-ov-file#command-line-tool
+  <https://github.com/EOEPCA/app-package-validation?tab=readme-ov-file#command-line-tool>

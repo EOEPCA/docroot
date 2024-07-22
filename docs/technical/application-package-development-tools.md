@@ -36,7 +36,7 @@ The `CommandLineTool` snippet may then be integrated in workflows using the Appl
 
 The Application Package Editor facilitates the creation of workflow definitions expressed using the CWL standard format. At the minimum, a CWL document must contain the definition of a workflow object (including its inputs, outputs, processing steps, and connections between the output and input parameters), and a series of `CommandLineTool` (CLT) objects that further describe each workflow step. Each CLT object contains the definition of an individual Application, as packaged using the EO Application Packaging Assistant introduced above.
 
-The Editor integrates an [Application Package Validator](https://github.com/EOEPCA/app-package-validation) library able to detect issues (errors, warnings and other notes) in AP CWL files.
+The Editor integrates an [Application Package Validator](../application-package-validator/) library able to detect issues (errors, warnings and other notes) in AP CWL files.
 
 The Editor's main features include:
 
