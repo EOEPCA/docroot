@@ -1,3 +1,0 @@
-# Resource Health Building Block
-
-Coming soon...

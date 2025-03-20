@@ -19,7 +19,7 @@ nav:
         - Processing: /projects/processing
         - MLOps: /projects/mlops
         - Resource Health: /projects/resource-health
-        - Notification & Automation: technical/notification-automation-bb.md
+        - Notification & Automation: /projects/notification-automation
       - Building Blocks (Federation):
         - Federated Orchestrator: technical/federated-orchestrator-bb.md
         - Identity & Access Management: /projects/iam
