@@ -30,6 +30,7 @@ nav:
         - OGC Application Package:
           - Development Tools: technical/application-package-development-tools.md
           - Validator: technical/application-package-validator.md
+        - STAC Tools and Utilities: technical/stac-tools-and-utilities.md
     - Tutorials:
       - EO Application Packages:
         - Guides for EO Application Packages: https://github.com/eoap
