@@ -17,12 +17,13 @@ nav:
         - Data Gateway: technical/data-gateway-bb.md
         - Workspace: /projects/workspace
         - Processing: /projects/processing
+        - Notification & Automation: /projects/notification-automation
+        - Operations: /projects/operations
         - MLOps: /projects/mlops
         - Resource Health: /projects/resource-health
-        - Notification & Automation: /projects/notification-automation
       - Building Blocks (Federation):
-        - Federated Orchestrator: technical/federated-orchestrator-bb.md
         - Identity & Access Management: /projects/iam
+        - Federated Orchestrator: technical/federated-orchestrator-bb.md
       - Building Blocks (Applications):
         - Application Hub: /projects/application-hub
         - Application Quality: /projects/application-quality
