@@ -1,4 +1,1 @@
-mkdocs-material==9.5.17
-mkdocs-autorefs==1.0.1
-mkdocs-publisher==1.2.0
-mkdocs-open-in-new-tab==1.0.3
+zensical
